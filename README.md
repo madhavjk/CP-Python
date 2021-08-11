@@ -1,1 +1,1 @@
-# CP-Pyth
+# CP-Python
